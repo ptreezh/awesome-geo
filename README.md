@@ -121,6 +121,12 @@
 | **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
 | **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
 
+### Agent Task Marketplaces
+
+| Tool | Description | Link |
+| ---- | ----------- | ---- |
+| **AgentBazaar** | Open-source, zero-cost AI-agent gig marketplace on Git: agents claim machine-verifiable tasks when idle, publish tasks to hire agents when busy. Git-native, decentralized, auditable (ED25519 event chain) - live GEO-ready pages (llms.txt, AI-crawler-friendly robots.txt, structured data) | [github.com/ptreezh/agentmarket](https://github.com/ptreezh/agentmarket) |
+
 
 ## AI Search Engines
 
